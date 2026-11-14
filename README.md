@@ -1,7 +1,8 @@
 ## Välkommen till min sida 👋
-Mitt namn är Filip och jag studerar till Webbutveckling på Mittuniversitetet i Sundsvall.  
-Jag bygger både webbplatser och applikationer. Främst använder jag javascript, typescript, css och ramverk tillsammans med databaser.  
+Mitt namn är Filip och jag studerar till Webbutveckling på Mittuniversitetet i Sundsvall.   
 
+Jag bygger både webbplatser och applikationer. Främst använder jag javascript, typescript, css och ramverk tillsammans med databaser.  
+Jag gillar att använda mig av Visual Studio Code samt Visual Studio, eller cmd.  
 Mina större projekt är publika, medan mindre projekt och repos är privata.
 
 Verktyg i övrigt:
