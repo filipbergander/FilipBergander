@@ -6,7 +6,7 @@ Mina större projekt är publika, medan mindre projekt och repos är privata.
 
 Verktyg i övrigt:
 - Figma
-- Trello.  
+- Trello  
 
 Utöver programmering är jag intresserad av: 
 - Datorspel, ekonomi och att resa
